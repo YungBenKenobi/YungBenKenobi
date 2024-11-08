@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YungBenKenobi
 - 👀 I’m interested in ... all sorts of eclectic stuff, really!
-- 🌱 I’m currently learning ... C, Arduino
+- 🌱 I’m currently learning ... C, HTML, Arduino
 - 💞️ I’m looking to collaborate on ... anything I could help with :)
 - 📫 How to reach me ... https://discord.gg/w8McCtjP or dm me @ oldbenkenobi4326
 - 😄 Pronouns: ... he/him
